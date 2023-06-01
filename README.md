@@ -1,2 +1,2 @@
 # CODEWAR-STATS
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ablah31&show_icons=true&theme=radical)
+![Codewars](https://github.r2v.ch/codewars?user=ablah31)
